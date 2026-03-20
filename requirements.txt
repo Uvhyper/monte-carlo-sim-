@@ -1,0 +1,15 @@
+matplotlib==3.10.8
+numpy==2.2.6
+pandas==2.3.3
+pandas-ta==0.4.71b0
+torch==2.7.1
+yfinance==1.2.0
+arch==8.0.0
+scipy==1.17.1
+scikit-learn>=1.4.0
+numba==0.61.2
+statsmodels==0.14.6
+hmmlearn
+copulas
+pyqtgraph
+PyQt6
